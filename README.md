@@ -2,6 +2,8 @@
 
 Apenas uma simples página de TODO
 
+To do list 1.0: Continha apenas o código, mas não salvava no LocalStorage
+To do list 1.1: Salva o progresso no LocalStorage
 
 
 
